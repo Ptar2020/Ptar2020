@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ptar2020
-- 👀 I’m interested in Python, C.
-- 🌱 I’m currently learning Software Engineering
+- 👀 I’m interested in Python, C and Javascript 
+- 🌱 I’m currently learning Software Engineering @Holberton School/ALX Africa 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +254725109389//peteriolwande@gmail.com
 
