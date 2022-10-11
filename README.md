@@ -1,10 +1,26 @@
-- Hi, I’m @Ptar2020
-- I’m interested in Python, C and Javascript 
-- Currently learning Software Engineering @Holberton School/ALX Africa 
-- I’m looking to collaborate on Software Engineering, Data Analysis
-- Reach me +254725109389//peterolwande@gmail.com
 
-<!---
-Ptar2020/Ptar2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## PETER O OLWANDE
+
+I love Jesus Christ
+I love Coding
+
+### **I prefer to work with**
+> 1. Python - [Django, Flask]
+> 2. C
+> 3. Javascript
+
+### **I also work with:**
+> 1. HTML
+> 2. CSS
+> 3. Postgresql
+
+#### Studied at:
+ALX AFRICA
+IG4X
+
+##Reach Me on 
++254725109389
+https//:www.twitter.com/ptar2020
+peterolwande@gmail.com
+
+
