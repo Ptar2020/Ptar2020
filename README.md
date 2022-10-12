@@ -17,13 +17,13 @@ I love Coding
 > 3. Postgresql
 
 #### Studied at:
-ALX AFRICA
+> 1. ALX AFRICA
 
-IG4X
+> 2. I4G x Zuri
 
 ## Reach Me on
 
-> +254725109389
+> +254725109389 
 
 > www.twitter.com/ptar2020
 
