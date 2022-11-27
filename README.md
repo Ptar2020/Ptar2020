@@ -8,7 +8,7 @@ I love Coding
 
 ### **I prefer to work with**
 > 1. Python - [Django, Flask]
-> 2. Javascript - [React]
+> 2. Javascript - [React, NodeJs]
 > 3. C
 
 ### **I also work with:**
