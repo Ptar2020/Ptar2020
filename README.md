@@ -9,17 +9,17 @@ I love Coding
 ### **I prefer to work with**
 > 1. Python - [Django, Flask]
 > 2. Javascript - [React, NodeJs]
-> 3. C
+> 3. SQL [MYSQL, Postgresql]
+> 4. HTML
+> 5. CSS
 
-### **I also work with:**
-> 1. HTML
-> 2. CSS
-> 3. Postgresql
 
 #### Studied at:
-> 1. ALX AFRICA
+> 1. ALX AFRICA - Software Engineering - Fullstack [ * ]
 
-> 2. I4G x Zuri
+> 2. I4G x Zuri [Fullstack - Django, HTML, CSS, Javascript]
+
+> 3. Progate [Fullstack - Nodejs, EJS, HTML, CSS, SQL]
 
 ## Reach Me on
 
