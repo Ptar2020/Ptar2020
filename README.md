@@ -18,15 +18,13 @@ Hi, I'm Peter O Olwande, a passionate software engineer who loves Jesus Christ a
 
 ## Education
 
- **Self-Taught Developer:** 
- 
- My journey in software engineering has been primarily self-directed. I believe in continuous learning and staying updated with the latest technologies.
+- **Self-Taught Developer:**
+  My journey in software engineering has been primarily self-directed. I believe in continuous learning and staying updated with the latest technologies.
 
-My vast knowledge has been further contributed by taking online courses from:
-
-1. ALX AFRICA - Software Engineering - Fullstack [ * ]
-2. I4G x Zuri [Fullstack - Django, HTML, CSS, Javascript]
-3. Progate [Fullstack - Nodejs, HTML, CSS, SQL]
+  I have further enriched my knowledge by taking online courses from:
+  1. ALX AFRICA - Software Engineering - Fullstack [ * ]
+  2. I4G x Zuri [Fullstack - Django, HTML, CSS, Javascript]
+  3. Progate [Fullstack - Nodejs, HTML, CSS, SQL]
 
 ---
 
