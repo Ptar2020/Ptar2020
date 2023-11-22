@@ -1,34 +1,48 @@
+# PETER O OLWANDE
 
-## PETER O OLWANDE
+## About Me
 
-I love Jesus Christ<br>
-I love Coding
+Hi, I'm Peter O Olwande, a passionate software engineer who loves Jesus Christ and enjoys the art of coding.
 
-<hr>
+---
 
-### **I prefer to work with**
-> 1. Python - [Django, Flask]
-> 2. Javascript - [React, NodeJs]
-> 3. SQL [MYSQL, Postgresql]
-> 4. HTML
-> 5. CSS
+### Technologies I Love Working With
 
+- **Python:** Experienced in building web applications mainly Django.
+- **JavaScript:** Proficient in creating dynamic user interfaces with React and server-side applications with NodeJs.
+- **SQL:** Skilled in working with relational databases mainly Postgresql.
+- **Web Development:** Proficient in HTML and CSS.
 
-#### Studied at:
-> 1. ALX AFRICA - Software Engineering - Fullstack [ * ]
+---
 
-> 2. I4G x Zuri [Fullstack - Django, HTML, CSS, Javascript]
+## Projects
 
-> 3. Progate [Fullstack - Nodejs, EJS, HTML, CSS, SQL]
+- [Project Name 1](link-to-project-1): Brief description of the project.
+- [Project Name 2](link-to-project-2): Brief description of the project.
 
-## Reach Me on
+---
 
-> +254725109389 
+## Education
 
-> www.twitter.com/ptar2020
+1. ALX AFRICA - Software Engineering - Fullstack [ * ]
+2. I4G x Zuri [Fullstack - Django, HTML, CSS, Javascript]
+3. Progate [Fullstack - Nodejs, HTML, CSS, SQL]
 
-> peterolwande@gmail.com
+---
 
-<hr>
+## Connect with Me
 
+- [Twitter](https://www.twitter.com/ptar2020)
+- [LinkedIn](your-linkedin-profile)
 
+---
+
+## Contact Information
+
+- Phone: +254725109389
+- Email: <peterolwande@gmail.com>
+
+---
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub Stats](https://img.shields.io/github/followers/Ptar2020?label=Follow&style=social)
