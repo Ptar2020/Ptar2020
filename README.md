@@ -15,12 +15,6 @@ Hi, I'm Peter O Olwande, a passionate software engineer who loves Jesus Christ a
 
 ---
 
-## Projects
-
-- [Project Name 1](link-to-project-1): Brief description of the project.
-- [Project Name 2](link-to-project-2): Brief description of the project.
-
----
 
 ## Education
 
