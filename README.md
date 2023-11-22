@@ -19,6 +19,7 @@ Hi, I'm Peter O Olwande, a passionate software engineer who loves Jesus Christ a
 ## Education
 
 - **Self-Taught Developer:**
+  
   My journey in software engineering has been primarily self-directed. I believe in continuous learning and staying updated with the latest technologies.
 
   I have further enriched my knowledge by taking online courses from:
